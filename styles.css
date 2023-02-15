@@ -66,25 +66,25 @@ h1, h2, h3, h4, p {
     height:280px;
 }
 
-#gift-img-happy:active {
+#gift-img-happy:hover {
     background-image: url("https://media.giphy.com/media/GA2dwDU7owOS4/giphy.gif");
 }
 
-#gift-img-hot:active {
+#gift-img-hot:hover {
     background-image: url("https://media.giphy.com/media/K0Mmal97YNYkw/giphy.gif");
 }
 
-#gift-img-cool:active {
+#gift-img-cool:hover {
     background-image: url("https://media.giphy.com/media/dylSPwJbKNChi/giphy.gif");
 }
 
-#gift-img-party:active {
+#gift-img-party:hover {
     background-image: url("https://media.giphy.com/media/3o85xlFutZQ0W98uek/giphy.gif");
     background-size:500px 282px;
     background-repeat:no-repeat;
 }
 
-#gift-img-cheers:active {
+#gift-img-cheers:hover {
     background-image: url("https://media.giphy.com/media/f9RzoxHizH72k15FKS/giphy.gif");
     background-size:500px 280px;
     background-repeat:no-repeat
